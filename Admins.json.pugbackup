@@ -1,0 +1,10 @@
+{
+    "adminList": [
+        {
+            "index": 1,
+            "privileges": 2,
+            "name": "Tanzy",
+            "steamId": 76561198113771129
+        }
+    ]
+}
